@@ -40,7 +40,3 @@ To run cypress:
 npm cypress:open
 ```
 
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
-
